@@ -41,7 +41,7 @@ public class FactTest {
 	@Test(timeout=1)
 	public void whenTheNumberIsPositiveSystemShouldReturnExpectedOutput()
 	{
-		m.getFact(5);
+		m.getFact(6);
 	}
 
 }
